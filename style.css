@@ -1,0 +1,13 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.home-banner {
+    background-image: url(/images/donation13.jpg);
+    text-align: center;
+    color: white;
+}
