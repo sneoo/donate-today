@@ -3,8 +3,12 @@ body {
     margin: 0;
 }
 
+button {
+    font-family: inherit;
+}
+
 h1 {
-    font-size: 50px;
+    font-size: 60px;
 
 }
 
@@ -12,8 +16,8 @@ h3 {
     font-size: 20px;
 }
 
-.top-banner-style {
-    width: 45%;
+.banner-style {
+    width: 50%;
     height: 50%;
     margin: auto;
     padding-bottom: 2%;
@@ -43,4 +47,56 @@ h3 {
     padding: 10px 6px 10px 6px;
     border-radius: 5px;
     color: white;
+    font-weight: bold;
+}
+
+.help-text {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+
+.help-text-weight {
+    font-weight: bolder;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.button-style {
+    height: 100px;
+    width: 130px;
+    border-radius: 5px;
+    margin-right: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    padding: 10px 10px;
+    border: 0;
+
+}
+
+#unique {
+    border: 3px solid tomato;
+    background-color: rgb(246, 202, 194);
+}
+
+.resizing {
+    margin-left: 25px;
+    padding-bottom: 50px;
+}
+
+.donate-now {
+    text-align: center;
+}
+
+.amount-input-style {
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid gray;
+    text-align: center;
+    padding: 10px 10px;
+    margin: 25px 0;
+    color: gray;
+    font-size: 20px;
 }
