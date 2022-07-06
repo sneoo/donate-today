@@ -98,7 +98,7 @@ h3 {
 .amount-input-style {
     width: 100%;
     border: none;
-    border-bottom: 2px solid gray;
+    border-bottom: 2px solid rgb(170, 168, 168);
     text-align: center;
     padding: 10px 10px;
     margin: 25px 0;
