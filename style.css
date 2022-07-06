@@ -16,7 +16,7 @@ h3 {
     width: 50%;
     height: 50%;
     margin: auto;
-    padding-bottom: 1%;
+    padding-bottom: 2%;
 
 }
 
@@ -72,8 +72,8 @@ h3 {
     font-size: 30px;
     padding: 10px 10px;
     border: 0;
-    cursor: pointer;
 }
+
 
 .button-style:hover {
     background-color: rgb(236, 112, 91);
@@ -119,6 +119,7 @@ h3 {
 .one-third-width {
     width: 20%;
     padding: 2%;
+    cursor: pointer;
 }
 
 #food {
