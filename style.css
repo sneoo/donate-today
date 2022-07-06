@@ -200,13 +200,17 @@ footer {
     text-align: center;
     background-color: black;
     color: white;
-    margin-top: 0;
     display: flex;
     flex-direction: column;
-    padding: 20px 20px;
+
 }
 
 .footer-style {
     font-style: italic;
     color: tomato;
+    font-size: 50px;
+    font-family: 'The Nautigal', cursive;
+    margin-top: 2%;
+    margin-bottom: 0;
+
 }
